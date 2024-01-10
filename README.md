@@ -1,5 +1,5 @@
 # PMU-B-PersonalAI
-# สวัสดีครับยินดีต้อนรับสู่โปรไฟล์ผม
+# สวัสดีครับ
 
 Hello, I'm Santipab Tongchan! Welcome to my page.
 
